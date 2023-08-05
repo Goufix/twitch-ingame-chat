@@ -1,4 +1,4 @@
-package dev.goufix.twitchingamechat;
+package dev.goufix.myfirstmod;
 
 public class ClientProxy extends CommonProxy {
 

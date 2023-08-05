@@ -1,4 +1,4 @@
-package dev.goufix.twitchingamechat;
+package dev.goufix.myfirstmod;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -11,7 +11,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLServerStartingEvent;
 
 @Mod(modid = Tags.MODID, version = Tags.VERSION, name = Tags.MODNAME, acceptedMinecraftVersions = "[1.7.10]")
-public class TwitchIngameChat {
+public class MyFirstMod {
 
     public static final Logger LOG = LogManager.getLogger(Tags.MODID);
 
